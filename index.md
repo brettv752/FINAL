@@ -7,6 +7,7 @@
     <link href="https://fonts.googleapis.com/css?family=Fjalla+One" rel="stylesheet">
 </head>
 <body>
+    <section>
     <nav>
     <ul>
         <li> <a href="#home">Homepage</a></li>
@@ -16,7 +17,6 @@
         <li> <a href="#num">Numbers</a></li>
     </ul>
     </nav>
-    <section>
         <h1>The best way out is always through (Frost)</h1>
         <footer>Assembled by Brett Vollrath</footer>
     </section>
