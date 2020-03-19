@@ -9,11 +9,11 @@
 <body>
     <nav>
     <ul>
-        <li> <a href="#home">tba</a>Homepage</li>
-        <li> <a href="#gal">tba</a>Gallery</li>
-        <li> <a href="#tl">tba</a>Timeline</li>
-        <li> <a href="#vid">tba</a>Video</li>
-        <li> <a href="#num">tba</a>Numbers</li>
+        <li> <a href="#home">Homepage</a></li>
+        <li> <a href="#gal">Gallery</a></li>
+        <li> <a href="#tl">Timeline</a></li>
+        <li> <a href="#vid">Video</a></li>
+        <li> <a href="#num">Numbers</a></li>
     </ul>
     </nav>
     <section>
