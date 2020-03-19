@@ -10,15 +10,15 @@
     <section>
     <nav>
     <ul>
-        <li> <a href="#home">Homepage</a></li>
-        <li> <a href="#gal">Gallery</a></li>
-        <li> <a href="#tl">Timeline</a></li>
-        <li> <a href="#vid">Video</a></li>
-        <li> <a href="#num">Numbers</a></li>
+        <li><a href="#home">Homepage</a></li>
+        <li><a href="#gal">Gallery</a></li>
+        <li><a href="#tl">Timeline</a></li>
+        <li><a href="#vid">Video</a></li>
+        <li><a href="#num">Numbers</a></li>
     </ul>
     </nav>
-        <h1>The best way out is always through (Frost)</h1>
-        <footer>Assembled by Brett Vollrath</footer>
+        <h1>The best way out is always through (Frost)</h1>   
     </section>
+<footer>Assembled by Brett Vollrath</footer>
 </body>
 </html>
