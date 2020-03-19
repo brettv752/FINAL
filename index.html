@@ -18,7 +18,7 @@
     </nav> 
     <section>
         <h1>The best way out is always through (Frost)</h1>     
-    </section>
     <footer>Assembled by Brett Vollrath</footer>
+</section>
 </body>
 </html>
