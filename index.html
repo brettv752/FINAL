@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
 <head>
     <meta charset="utf-8">
-    <title></title>
+    <title>JOUR 410 Final</title>
     <link rel="stylesheet" href="style.css" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Fjalla+One" rel="stylesheet">
 </head>
@@ -18,7 +18,7 @@
     </nav>
     <section>
         <h1>The best way out is always through (Frost)</h1>
-        <footer></footer>
+        <footer>Assembled by Brett Vollrath</footer>
     </section>
 </body>
 </html>
